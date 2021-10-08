@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Architecture Designs**
 
-- 👨‍💻 All of my projects are available at [https://thedeepaks.in](https://thedeepaks.in)
+- 👨‍💻 All of my projects are available at [https://thedeepaks.in](https://www.thedeepaks.in)
 
 - 📝 I regularly write articles on [https://deepak-singh-cs14.medium.com/](https://deepak-singh-cs14.medium.com/)
 
