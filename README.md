@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepaksinghcs14&label=Profile%20views&color=0e75b6&style=flat" alt="deepaksinghcs14" /> </p>
 
-- 🔭 I’m currently building [Uni](https://uni.cards/)
+- 🔭 I’m currently building [Torq AI](https://www.torq.live/)
 
 - 🌱 I’m currently learning **Architecture Designs**
 
