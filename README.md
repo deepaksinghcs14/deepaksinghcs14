@@ -78,14 +78,6 @@ Here are a few of my notable projects:
 
 ---
 
-### 📜 Certifications
-
-- **Certified Kubernetes Administrator (CKA)**
-- **AWS Certified Solutions Architect**
-- **Google Cloud Professional Architect**
-
----
-
 ### ⚙️ GitHub Analytics
 
 <p align="center">
